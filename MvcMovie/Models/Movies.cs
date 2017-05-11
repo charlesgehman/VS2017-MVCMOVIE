@@ -1,4 +1,4 @@
-﻿Using System;
+﻿using System;
 
 namespace MvcMovie.Models
 {
